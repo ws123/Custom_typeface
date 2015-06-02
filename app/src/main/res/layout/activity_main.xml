@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <cc.penrose.custom_typeface.view.MyTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="这是一个TextView" />
+
+    <cc.penrose.custom_typeface.view.MyEditTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="这是一个EditTextView" />
+
+    <cc.penrose.custom_typeface.view.MyButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="这是一个Button" />
+
+</LinearLayout>
