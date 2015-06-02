@@ -4,7 +4,6 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.EditText;
 
-import cc.penrose.custom_typeface.MyApplication;
 
 /**
  * Created by zhangheilong on 15/5/14.

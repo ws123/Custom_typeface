@@ -27,8 +27,8 @@ dependencies {
     compile 'com.android.support:appcompat-v7:22.2.0'
 }
 
-def siteUrl = 'https://github.com/ws123/BaseApplication'                        // #CONFIG# // project homepage
-def gitUrl = 'https://github.com/ws123/BaseApplication.git'                     // #CONFIG# // project git
+def siteUrl = 'https://github.com/ws123/Custom_typeface'                        // #CONFIG# // project homepage
+def gitUrl = 'https://github.com/ws123/Custom_typeface.git'                     // #CONFIG# // project git
 group = "cc.carlos"
 
 // 根节点添加
